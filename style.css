@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand > IMG{
+    width: 200PX;
+    height: 60PX;
+}
+.nav-link,.navbar-brand{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Baloo 2', cursive;
+    color: black !important;
+}
+.fa-shopping-bag , .fa-user-circle-o{
+    font-size: 30px !important;
+    color: black;
+}
+
+.first .newArrivals{
+    margin-top: 50px;
+    margin-left: -110px;
+    width: 100%;
+    height: AUTO;
+}
+
+.first .card{
+    width: 150%;
+    height: 300px;
+   }
+.first .btn-primary{
+        background-color: white;
+        color: blue;
+        border: none;
+}
+.first .col{
+    margin: 65px;
+}
+
+.first .card-title{
+    margin-top: 10px;
+}
+.first .row{
+    
+    margin-top:-30px;    
+}
+.first .heading{
+    font-family: 'Baloo 2', cursive;
+    margin-left: 20px;
+}
+
+.products{
+    background-color: #F2F2F2;
+    height: auto;
+    margin: 5px;
+}
+.newArrivals{
+    margin-top: 50px;
+}
+.card{
+    width: 250px;
+    height: auto;
+    margin-bottom: 100px;
+}
+.products .card-text{
+    font-weight: bold;
+}
+.products .btn-primary{
+    width: 100%;
+}
+.heading{
+    padding-top: 50px;
+    margin-bottom: 39px;
+    font-family: 'Baloo 2', cursive;
+    margin-left: 20px;
+}
+
+.container2{
+    background-color: black;
+    height: 500px;
+    color: white; 
+}
+.container2 .left{
+    width: 50%;
+    float: left;
+    padding-top: 70px;
+    margin-left: 0%;
+
+}
+
+.container2 .left li{
+    list-style: none;
+    margin-left: 50px;
+   
+}
+
+.container2 .left li h2{
+    margin: 40px;
+    font-family: 'Baloo 2', cursive;
+    font-size: 45px;
+    font-weight: 400;
+       
+}
+.container2 .left li p{
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+       
+}
+.btn-outline-primary{
+    margin: 40px;
+    color: white;
+    border-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.container2 .right{
+    width: 50%;
+    float: right;
+
+}
+
+.container2 .right li{
+    list-style: none;
+   
+}
+
+.container2 .right li img{
+    width: 100%;
+    height: 500px;
+}
+
+.fa-truck, .fa-handshake-o, .fa-shield{
+    font-size: 50px !important;
+    margin: 10px;
+}
+
+.card1, .card2, .card3{
+    display: flex;
+    width: 25%;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 4px 5px gray;
+    align-items: center;
+    justify-content: center;
+}
+.card1{
+    background-color: #2CA9D2;
+}
+.card2{
+    background-color: #FF6D67;
+}
+.card3{
+    background-color:#FF9246;
+}
+
+.mainCard h2{
+    font-size: 20px;
+}
+
+.mainCard{
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.condition{
+    margin: 50px;
+}
